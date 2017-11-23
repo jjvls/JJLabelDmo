@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     s.author             = { "jjvls" => "1059828836@qq.com" }
     s.social_media_url   = "http://weibo.com/u/jjvls"
     s.source       = { :git => "https://github.com/jjvls/JJLabelDmo.git", :tag => s.version }
-    s.source_files = "JJLabelDemo/*"
+    s.source_files = "JJLabelDemo/JJLabelDemo/JJLabel/*.{h,m}"
     s.exclude_files = "Classes/Exclude"
     s.requires_arc = true
 end
