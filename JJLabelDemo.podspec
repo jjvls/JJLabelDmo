@@ -8,12 +8,12 @@
 
 Pod::Spec.new do |s|
     s.name         = "JJLabelDemo"
-    s.version      = "0.0.1"
+    s.version      = "1.3"
     s.summary      = "A delightful setting interface framework."
     s.platform     = :ios, "8.0"
     s.homepage     = "https://github.com/jjvls/JJLabelDmo"
     s.license              = {:type => "MIT", :file => "LICENSE" }
-    s.author             = { "coderYJ" => "ajie224818@163.com" }
+    s.author             = { "jjvls" => "1059828836@qq.com" }
     s.social_media_url   = "http://weibo.com/u/jjvls"
     s.source       = { :git => "https://github.com/jjvls/JJLabelDmo.git", :tag => s.version }
     s.source_files = "JJLabelDmo/*"
